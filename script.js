@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 // Loop to hide images
 function toggle_visibility() {
-  let images = ['Knight','Painting','Sword','Horse','Pot','Wizard']
+  let images = ['Knight1','Painting2','Sword3','Horse4','Pot5','Wizard6']
   for (i of images) {
     let e = document.getElementById(i)
   if(e.style.display == 'block')
@@ -27,7 +27,7 @@ function toggle_visibility() {
   }
 }
 
-function toggle_visibility(id) {
+function toggle_visibility() {
   let e = document.getElementById(id)
   if(e.style.display == 'none')
     e.style.display = 'block'
