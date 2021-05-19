@@ -1,37 +1,37 @@
 #title {
   text-align: center;
   font-weight: bold;
-	font-size: 30px;
-	font-family: Verdana;
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: white;
 }
 
 #time {
-	padding-left: 130px;
-	padding-top: 20px;
+  padding-left: 130px;
+  padding-top: 20px;
   font-weight: bold;
-	font-size: 30px;
-	font-family: Verdana;
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: white;
 }
 
 #timer {
-	height: 350px;
-	width: 250px;
-	position: absolute;
-	background-image: url("images/timer.jpg");
-	background-repeat: no-repeat;
-	background-color: none;
-	top: 140px;
-	left: 50px;
+  height: 350px;
+  width: 250px;
+  position: absolute;
+  background-image: url("images/timer.jpg");
+  background-repeat: no-repeat;
+  background-color: none;
+  top: 140px;
+  left: 50px;
 }
 
 #usertime {
-	padding-left: 50px;
-	padding-top: 270px;
-	font-weight: bold;
-	font-family: Verdana;
-	font-size: 25px;
+  padding-left: 50px;
+  padding-top: 270px;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 25px;
   color: white;
 }
 
@@ -42,78 +42,76 @@
 
 #bimg {
   background-image: url("images/Background.png");
-	position: absolute;
+  position: absolute;
   width: 692px;
   height: 518px;
-	top: 100px;
-	left: 350px;
-  margin-bottom: 0px;
+  top: 100px;
+  left: 350px;
   border: 5px;
   border-color: rgba(75, 87, 255, 0.788);
   border-style: solid;
 }
 
-#Instructions {
-	margin-top: 0px;
+#instructions {
   float: left;
 }
 
 #Knight {
   background-image: url("images/img1.png");
-	position: relative;
+  position: relative;
   width: 50px;
   height: 100px;
-	top: 0;
-	left: 250px;
+  top: 0;
+  left: 250px;
   display: block;
 }
 
 #Painting {
   background-image: url("images/img2.png");
-	position: relative;
+  position: relative;
   width: 50px;
   height: 25px;
-	bottom: 300px;
-	left: 660px;
+  bottom: 300px;
+  left: 660px;
   display: block;
 }
 
 #Sword {
   background-image: url("images/img3.png");
-	position: relative;
+  position: relative;
   width: 100px;
   height: 100px;
-	bottom: 500px;
-	left: 750px;
+  bottom: 500px;
+  left: 750px;
   display: block;
 }
 
 #Horse {
   background-image: url("images/img4.png");
-	position: relative;
+  position: relative;
   width: 80px;
   height: 50px;
-	bottom: 135px;
-	left: 390px;
+  bottom: 135px;
+  left: 390px;
   display: block;
 }
 
 #Pot {
   background-image: url("images/img5.png");
-	position: relative;
+  position: relative;
   width: 50px;
   height: 60px;
-	bottom: 160px;
-	left: 175px;
+  bottom: 160px;
+  left: 175px;
   display: block;
 }
 
 #Wizard {
   background-image: url("images/img6.png");
-	position: relative;
+  position: relative;
   width: 50px;
   height: 60px;
-	bottom: 340px;
-	left: 210px;
+  bottom: 340px;
+  left: 210px;
   display: block;
 }
